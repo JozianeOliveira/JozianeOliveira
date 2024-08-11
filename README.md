@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sou Joziane Oliveira, apaixonada por números e tecnologia. Sejam bem-vindos!</h2>
+<h2 align="left">Olá, sou Joziane Oliveira. Sejam bem-vindos!</h2>
 
 ###
 
