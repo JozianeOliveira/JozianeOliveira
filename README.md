@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src=https://github.com/user-attachments/assets/e35b5319-2bd5-4235-a81d-74c6ea654170/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/753d37c9-3f2b-4c46-811b-4f7e938d0c45"/>
 <h2 align="left">Olá, sou Joziane Oliveira.</h2>
 
 ###
