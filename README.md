@@ -1,7 +1,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Radio+Canada+Big&weight=600&size=35&pause=1000&color=F7117F&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Hello%2C+my+name+is+Joziane)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Radio+Canada+Big&weight=600&size=35&pause=1000&color=F7117F&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=435&lines=Hello%2C+my+name+is+Joziane)](https://git.io/typing-svg)
 
 ###
 
