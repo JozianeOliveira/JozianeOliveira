@@ -5,11 +5,11 @@
 
 ___
 
-<p align="left">🔢💻❤️ Matemática e analista de sistemas, apaixonada por números e tecnologias! <br>👩‍💻🚀 Iniciando no mundo da programação...</p>
+<p align="left">🔢💻❤️ Mathematician and Systems Analyst, passionate about numbers and technologies! <br>👩‍💻🚀 I love programming...</p>
 
 ___
 
-<h3 align="left">Tecnologias</h3>
+<h3 align="left">Technologies</h3>
 
 ###
 
@@ -31,7 +31,7 @@ ___
 
 ___
 
-<h3 align="left">Mídias Sociais</h3>
+<h3 align="left">Social Medias</h3>
 
 ###
 
@@ -50,7 +50,7 @@ ___
 ___
 
 
-<h3 align="left">Estatísticas</h3>
+<h3 align="left">Statistics</h3>
 
 ###
 
@@ -67,7 +67,7 @@ ___
 
 ___
 
-<h3 align="left">Meus Repositórios</h3>
+<h3 align="left">My Repositories</h3>
 
 ___
 
