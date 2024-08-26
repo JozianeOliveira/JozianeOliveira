@@ -3,11 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Radio+Canada+Big&weight=600&size=35&pause=1000&color=F7117F&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=false&width=435&lines=Hello%2C+my+name+is+Joziane)](https://git.io/typing-svg)
 
-###
+___
 
 <p align="left">🔢💻❤️ Matemática e analista de sistemas, apaixonada por números e tecnologias! <br>👩‍💻🚀 Iniciando no mundo da programação...</p>
 
-###
+___
 
 <h3 align="left">Tecnologias</h3>
 
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+___
 
 <h3 align="left">Mídias Sociais</h3>
 
@@ -47,7 +47,8 @@
   </a>
 </div>
 
-###
+___
+
 
 <h3 align="left">Estatísticas</h3>
 
@@ -61,6 +62,74 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JozianeOliveira&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<br>
+
+
+___
+
+<h3 align="left">Meus Repositórios</h3>
+
+___
+
+
+
+<div align="left">
+  <p><strong>CurrículoDev 📋💻🚀</strong><br>
+  Projeto em React.js focado na criação de componentes reutilizáveis para um currículo online. O objetivo é demonstrar habilidades técnicas e projetos profissionais, oferecendo interfaces de usuário intuitivas e dinâmicas, utilizando tecnologias modernas de desenvolvimento front-end.
+  </p>
+  <a href="https://github.com/JozianeOliveira/CurriculoDev" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto%20Curr%C3%ADculoDev-%23000000?style=for-the-badge&logo=react&logoColor=%61DAFB" alt="CurriculoDev" />
+  </a>
+</div>
+
+___
+
+<div align="left">  
+  <p><strong>fabricaAuto 🚗🏍️💻</strong><br>
+  Projeto de software para automatização do processo de fabricação de veículos em uma fábrica de automóveis. Focado na criação de um módulo para cadastro de carros e motos, com a implementação de classes orientadas a objetos utilizando a IDE NetBeans.
+  </p>
+  <a href="https://github.com/JozianeOliveira/fabricaAuto" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto%20F%C3%A1bricaAuto-%23000000?style=for-the-badge&logo=java&logoColor=%23F7DF1E" alt="fabricaAuto" />
+    </a>
+</div>
+
+___
+
+<div align="left">  
+  <p><strong>ControlePedidosLanchonete 🍔💻📊</strong><br>
+  Sistema de controle de pedidos para lanchonetes desenvolvido em Python. Permite selecionar lanches, acompanhamentos e bebidas, calcular valores e exibir total de vendas.
+  </p>
+  <a href="https://github.com/JozianeOliveira/ControlePedidosLanchonete" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto%20ControlePedidosLanchonete-%23000000?style=for-the-badge&logo=python&logoColor=%3066F6" alt="ControlePedidosLanchonete" />
+  </a>
+</div>
+
+___
+
+<div align="left">
+  <p><strong>HTML-CSS 🌐💻🎨</strong><br>
+  Projeto focado na criação de páginas web interativas utilizando HTML e CSS. O objetivo é praticar e aplicar conceitos fundamentais dessas tecnologias para desenvolver páginas web modernas, responsivas e acessíveis.
+  </p>
+  <a href="https://github.com/JozianeOliveira/HTML-CSS" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto%20HTML--CSS-%23000000?style=for-the-badge&logo=html5&logoColor=%E34F26" alt="HTML-CSS" />
+  </a>
+</div>
+
+___ 
+
+<div align="left">
+  <p><strong>ProjetosPowerBI 📊</strong><br>
+  Projetos de análise de dados no Power BI.
+  </p>
+  <a href="https://github.com/JozianeOliveira/ProjetosPowerBI" target="_blank">
+    <img src="https://img.shields.io/badge/Projetos%20PowerBI-%23000000?style=for-the-badge&logo=powerbi&logoColor=%F2C811" alt="ProjetosPowerBI" />
+  </a>
+</div>
+
+___
+
+
+
+
 
 
