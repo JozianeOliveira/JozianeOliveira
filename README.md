@@ -116,6 +116,20 @@ ___
 
 ___ 
 
+<div align="left">  
+  <p><strong>Site-Android 📱🌐💻</strong><br>
+  Página web moderna e responsiva criada em HTML e CSS, com um design atrativo e navegação intuitiva. O projeto aplica técnicas de layout, estilização e responsividade aprendidas no curso de HTML/CSS.
+  </p>
+  <a href="https://github.com/JozianeOliveira/Site-Android" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto%20Site%20Android-%23000000?style=for-the-badge&logo=html5&logoColor=%E34F26" alt="Site-Android" />
+  </a>
+  <a href="https://jozianeoliveira.github.io/Site-Android/" target="_blank">
+    <img src="https://img.shields.io/badge/Visualizar%20Site%20Android-%23000000?style=for-the-badge&logo=google-chrome&logoColor=%4285F4" alt="Visualizar Site-Android" />
+  </a>
+</div>
+
+___
+
 <div align="left">
   <p><strong>ProjetosPowerBI 📊</strong><br>
   Projetos de análise de dados no Power BI.
