@@ -159,6 +159,20 @@ ___
 ___
 
 <div align="left">
+  <p><strong>Projeto Login 🔒🖥</strong><br>
+    Este projeto consiste em uma página de login responsiva, desenvolvida em HTML e CSS. Ele utiliza a abordagem mobile first e se adapta a diferentes tamanhos de tela usando media queries. O design é estilizado com ícones e uma paleta de cores moderna, proporcionando uma experiência de usuário acessível e intuitiva.
+  </p>
+  <a href="https://github.com/JozianeOliveira/Login" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto%20Login-%23000000?style=for-the-badge&logo=html5&logoColor=%E34F26" alt="Projeto Login" />
+  </a>
+  <a href="https://jozianeoliveira.github.io/Login/" target="_blank">
+    <img src="https://img.shields.io/badge/Visualizar%20Login-%23000000?style=for-the-badge&logo=google-chrome&logoColor=%4285F4" alt="Visualizar Projeto Login" />
+  </a>
+</div>
+
+___
+
+<div align="left">
   <p><strong>ProjetosPowerBI 📊</strong><br>
   Projetos de análise de dados no Power BI.
   </p>
