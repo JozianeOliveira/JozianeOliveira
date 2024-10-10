@@ -27,6 +27,8 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" height="40" alt="Portugol Studio logo" />
 </div>
 
 ___
