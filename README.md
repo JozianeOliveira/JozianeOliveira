@@ -150,7 +150,7 @@ ___
 
 <div align="left">
   <p><strong>Redes Sociais 📱🌐</strong><br>
-    Projeto de um site para exibir minhas redes sociais, desenvolvido em HTML e CSS durante as aulas do Curso em Vídeo. Este projeto simula uma interface de smartphone, onde cada botão direciona para uma rede social específica, oferecendo uma navegação simples e intuitiva.
+    Projeto de um site para exibir minhas redes sociais, desenvolvido em HTML e CSS. Este projeto simula uma interface de smartphone, onde cada botão direciona para uma rede social específica, oferecendo uma navegação simples e intuitiva.
   </p>
   <a href="https://github.com/JozianeOliveira/RedesSociais" target="_blank">
     <img src="https://img.shields.io/badge/Projeto%20Redes%20Sociais-%23000000?style=for-the-badge&logo=html5&logoColor=%E34F26" alt="Projeto Redes Sociais" />
