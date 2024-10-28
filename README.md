@@ -5,7 +5,7 @@
 
 ___
 
-<p align="left">🔢💻❤️ Mathematician and Systems Analyst, passionate about numbers and technologies! <br>👩‍💻🚀 I love programming...</p>
+<p align="left">🔢💻❤️ Mathematician and Systems Analyst, passionate about numbers and technologies!!! <br>👩‍💻🚀 I love programming...</p>
 
 ___
 
