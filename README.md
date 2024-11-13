@@ -134,7 +134,7 @@ ___
 
 <div align="left">  
   <p><strong>Cordel 📜🎨🌐</strong><br>
-    Projeto de um site inspirado na poesia de cordel, criado em HTML e CSS, incluindo efeitos de parallax nas imagens de fundo. O design é enriquecido com fontes personalizadas e técnicas de rolagem para proporcionar uma experiência visual única. Este projeto aplica conceitos de imagens e estilos aprendidos no curso de HTML5 e CSS3.
+    Projeto de um site inspirado na Poesia de Cordel, criado em HTML e CSS, incluindo efeitos de parallax nas imagens de fundo. O design é enriquecido com fontes personalizadas e técnicas de rolagem para proporcionar uma experiência visual única. Este projeto aplica conceitos de imagens e estilos aprendidos no curso de HTML5 e CSS3.
   </p>
   <a href="https://github.com/JozianeOliveira/Cordel" target="_blank">
     <img src="https://img.shields.io/badge/Projeto%20Cordel-%23000000?style=for-the-badge&logo=html5&logoColor=%E34F26" alt="Cordel" />
