@@ -98,7 +98,7 @@ ___
 
 <div align="left">  
   <p><strong>ControlePedidosLanchonete 🍔💻📊</strong><br>
-  Sistema de controle de pedidos para lanchonetes desenvolvido em Python. Permite selecionar lanches, acompanhamentos e bebidas, calcular valores e exibir total de vendas.
+  Sistema de controle de pedidos para lanchonetes desenvolvido em Python. Permite selecionar lanches, acompanhamentos e bebidas, calcular valores e exibir o total de vendas.
   </p>
   <a href="https://github.com/JozianeOliveira/ControlePedidosLanchonete" target="_blank">
     <img src="https://img.shields.io/badge/Projeto%20ControlePedidosLanchonete-%23000000?style=for-the-badge&logo=python&logoColor=%3066F6" alt="ControlePedidosLanchonete" />
