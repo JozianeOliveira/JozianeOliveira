@@ -162,7 +162,7 @@ ___
 
 <div align="left">
   <p><strong>Projeto Login 🔒🖥</strong><br>
-    Este projeto consiste em uma página de login responsiva, desenvolvida em HTML e CSS. Ele utiliza a abordagem Mobile First e se adapta a diferentes tamanhos de tela usando Media Queries. O design é estilizado com ícones e uma paleta de cores moderna, proporcionando uma experiência de usuário acessível e intuitiva.
+    Este projeto consiste em uma página de login responsiva, desenvolvida em HTML e CSS. Utiliza a abordagem Mobile First e se adapta a diferentes tamanhos de tela usando Media Queries. O design é estilizado com ícones e uma paleta de cores moderna, proporcionando uma experiência de usuário acessível e intuitiva.
   </p>
   <a href="https://github.com/JozianeOliveira/Login" target="_blank">
     <img src="https://img.shields.io/badge/Projeto%20Login-%23000000?style=for-the-badge&logo=html5&logoColor=%E34F26" alt="Projeto Login" />
