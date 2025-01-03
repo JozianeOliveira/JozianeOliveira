@@ -109,7 +109,7 @@ ___
 
 <div align="left">
   <p><strong>HTML-CSS 🌐💻🎨</strong><br>
-  Projeto focado na criação de páginas web interativas utilizando HTML e CSS. O objetivo é praticar e aplicar conceitos fundamentais dessas tecnologias para desenvolver páginas web modernas, responsivas e acessíveis.
+  Projeto focado na criação de páginas web interativas, utilizando HTML e CSS. O objetivo é praticar e aplicar conceitos fundamentais dessas tecnologias para desenvolver páginas web modernas, responsivas e acessíveis.
   </p>
   <a href="https://github.com/JozianeOliveira/HTML-CSS" target="_blank">
     <img src="https://img.shields.io/badge/Projeto%20HTML--CSS-%23000000?style=for-the-badge&logo=html5&logoColor=%E34F26" alt="HTML-CSS" />
