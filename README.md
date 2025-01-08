@@ -87,7 +87,7 @@ ___
 
 <div align="left">  
   <p><strong>fabricaAuto 🚗🏍️💻</strong><br>
-  Projeto de software para automatização do processo de fabricação de veículos em uma fábrica de automóveis. Focado na criação de um módulo para cadastro de carros e motos, com a implementação de classes orientadas a objetos utilizando a IDE NetBeans.
+  Projeto de software para automatização do processo de fabricação de veículos em uma fábrica de automóveis. Com foco na criação de um módulo para cadastro de carros e motos, com a implementação de classes orientadas a objetos utilizando a IDE NetBeans.
   </p>
   <a href="https://github.com/JozianeOliveira/fabricaAuto" target="_blank">
     <img src="https://img.shields.io/badge/Projeto%20F%C3%A1bricaAuto-%23000000?style=for-the-badge&logo=java&logoColor=%23F7DF1E" alt="fabricaAuto" />
